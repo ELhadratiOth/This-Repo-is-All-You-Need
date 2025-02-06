@@ -1,0 +1,6 @@
+pclass: A proxy for socio-economic status (SES)
+1st = Upper
+2nd = Middle
+3rd = Lower
+
+categorical class(with order) should be  in one  hot encoding  or let it as it is or  reverse the  order (  to  make it more logical )
