@@ -1,0 +1,35 @@
+{
+  "summurazation": "This video explains artificial intelligence (AI) as the use of computer systems to perform tasks requiring human intelligence.  AI solves problems humans struggle with, such as decision-making and language translation.  Examples include IBM's Watson, which uses machine learning for accurate predictions, and AI software used for cancer diagnosis, facial emotion recognition, and information retrieval.  Future videos will explore AI and future technologies.",
+  "resources": [
+    {
+      "title": "Artificial Intelligence in Education - ISTE",
+      "link": "https://iste.org/ai",
+      "type_r": "article",
+      "more_details": "ISTE offers free resources and guides for educators who are interested in learning about how artificial intelligence can empower learners at every level."
+    },
+    {
+      "title": "Artificial Intelligence Resources - American Academy of Neurology",
+      "link": "https://www.aan.com/tools-resources/artificial-intelligence-resources",
+      "type_r": "article",
+      "more_details": "This page will be updated with resources, references, and commentary about AI relevant to neurology practice and which uphold our principles as an organization."
+    },
+    {
+      "title": "12 Generative AI & AI Resources - Rasa.io",
+      "link": "https://rasa.io/pushing-send/ai-resources/",
+      "type_r": "article",
+      "more_details": "Top generative AI resources and AI resources that will help you stay up-to-date on all things AI, machine learning, and more."
+    },
+    {
+      "title": "AI Resources",
+      "link": "https://hr.utexas.edu/learning-development/resources/ai-resources",
+      "type_r": "article",
+      "more_details": "AI Resources · Year of AI · The Machine Learning Research Group · Machine Learning Laboratory · Center for Generative AI · The Artificial Intelligence Lab."
+    },
+    {
+      "title": "Artificial Intelligence Resources - MSM Library",
+      "link": "https://libraryguides.msmnyc.edu/az/ai-resources",
+      "type_r": "article",
+      "more_details": "The following is an evolving list of suggested websites, artificial intelligence (AI) tools, and other resources for doing research, learning about, ..."
+    }
+  ]
+}

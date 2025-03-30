@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.jumia.ma/consoles-9249/",
+      "product_title": "Sony Playstation 5 Slim Edition Standard+ GTA5+NBA 2K24",
+      "product_image_url": "N/A",
+      "product_url": "https://www.jumia.ma/consoles-9249/",
+      "product_current_price": 7499.0,
+      "product_original_price": 8300.0,
+      "product_discount_percentage": 10.0,
+      "product_specs": [],
+      "agent_recommendation_rank": 1,
+      "agent_recommendation_notes": [
+        "Seems like a good deal with games included."
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.ma/sony-playstation-5-slim-edition-standard-65808662.html",
+      "product_title": "Sony Playstation 5 Slim Edition Standard",
+      "product_image_url": "N/A",
+      "product_url": "https://www.jumia.ma/sony-playstation-5-slim-edition-standard-65808662.html",
+      "product_current_price": null,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [],
+      "agent_recommendation_rank": 2,
+      "agent_recommendation_notes": [
+        "Standard edition, price unknown."
+      ]
+    }
+  ]
+}

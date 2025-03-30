@@ -4,3 +4,6 @@ env/
 **/venv/
 **/.venv/
 **/env/
+.env
+**/.env/
+
