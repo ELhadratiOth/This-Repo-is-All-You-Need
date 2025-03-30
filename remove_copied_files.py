@@ -1,5 +1,5 @@
 import os
-
+#sjff
 def remove_copie_files(folder_path):
     try:
         files = os.listdir(folder_path)
